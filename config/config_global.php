@@ -4,9 +4,9 @@
 $_config = array();
 
 // ----------------------------  CONFIG DB  ----------------------------- //
-$_config['db']['1']['dbhost'] = 'localhost';
-$_config['db']['1']['dbuser'] = 'root';
-$_config['db']['1']['dbpw'] = 'root';
+$_config['db']['1']['dbhost'] = '115.28.10.166';
+$_config['db']['1']['dbuser'] = '360baiyun';
+$_config['db']['1']['dbpw'] = '360baiyundb';
 $_config['db']['1']['dbcharset'] = 'utf8';
 $_config['db']['1']['pconnect'] = '0';
 $_config['db']['1']['dbname'] = '360baiyun';

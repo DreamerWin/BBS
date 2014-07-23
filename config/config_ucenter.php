@@ -3,9 +3,9 @@
 
 define('UC_CONNECT', 'mysql');
 
-define('UC_DBHOST', 'localhost');
-define('UC_DBUSER', 'root');
-define('UC_DBPW', 'root');
+define('UC_DBHOST', '115.28.10.166');
+define('UC_DBUSER', '360baiyun');
+define('UC_DBPW', '360baiyundb');
 define('UC_DBNAME', '360baiyun');
 define('UC_DBCHARSET', 'utf8');
 define('UC_DBTABLEPRE', '`360baiyun`.by_ucenter_');
